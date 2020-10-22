@@ -2,4 +2,4 @@
 Introduction to JavaScript
 #Contributions
 Professor Krasso - Bellevue University
-Marcus Powell - Bellevue Universitys
+Marcus Powell - Bellevue University
