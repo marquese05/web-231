@@ -36,18 +36,21 @@ console.log(lastName1);
 console.log(address1);
 console.log(payRate1.toFixed(1)); //Fixing Payrate to 1 decimal
 console.log(hireDate1);
+console.log("");
 
 console.log(firstName2);
 console.log(lastName2);
 console.log(address2);
 console.log(payRate2.toFixed(1)); //Fixing Payrate to 1 decimal
 console.log(hireDate2);
+console.log("");
 
 console.log(firstName3);
 console.log(lastName3);
 console.log(address3);
 console.log(payRate3.toFixed(1)); //Fixing Payrate to 1 decimal
 console.log(hireDate3);
+console.log("");
 
 
 
