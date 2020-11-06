@@ -17,4 +17,5 @@ let eight = 8; //Removed commas from numeral for consistency
 //if seven is less than eight make a note in the console (Fixed mis-spelling on console)
 if (seven > eight) {
   console.log("Seven is greater than eight!");
-} else console.log("Seven is not greater than eight!"); //added else statement for true sentence.
+}
+else console.log("Seven is not greater than eight!"); //added else statement for true sentence.
