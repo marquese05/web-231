@@ -6,6 +6,10 @@
 ; Description: This program demonstrates the use of JavaScript while loop statements in an application to produce addition and multiplication. It will have two errors within the statement.
 ;=========================================== */
 
+const header = require('../header.js');
+
+console.log(header.display("Marcus", "Powell", "Exercise 3.1 - Discussion 3.1 Control Statements"));
+
 //Declare variables
 
 let z = 0;
